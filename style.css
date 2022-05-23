@@ -45,3 +45,41 @@ input{
      margin-bottom: 40px;
      padding: 20px;
 }
+
+
+
+
+button{
+
+     height: 50px;
+     width: 50px;
+     background-color: #ecf0f3;
+     box-shadow:  5px 5px 12px rgba(0, 0, 0, 0.16),
+                -5px -5px 12px #ffff;
+     border: none;
+     border-radius: 50%;
+     margin: 7px;
+     font-size: 12px;
+     font-weight: bold;
+
+}
+
+.mull{
+     font-size: 20px;
+     padding-top: 10px;
+}
+
+.mine{
+     font-size: 20px;
+     padding-bottom: 2px;
+}
+
+.dot{
+     font-size: 23px;
+     padding-bottom: 10px;
+}
+.equal{
+      width: 120px;
+      border-radius: 40px;
+      
+}
